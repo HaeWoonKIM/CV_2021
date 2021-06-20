@@ -1,0 +1,113 @@
+BasicInfo:
+  FirstName: Sergi
+  LastName: Francés
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +34 722 65 85 60
+    - Icon: fas fa-envelope
+      Info: francessergi@hotmail.com
+    - Icon: fas fa-globe
+      Info: linkedin.com/in/sergifrances
+    - Icon: fas fa-map-marker-alt
+      Info: Barcelona
+
+Profile: Hi, it's me Sergi! I like to innovate continuously to feel in motion. I see challenges where others see walls I turn lessons into projects, and projects into success.
+
+Experience:
+  - Employer: Tiendeo
+    Place: Barcelona, ES
+    Positions:
+      - Title: Software Developer
+        Date: Jan 2021 - Present
+        Details:
+          - Writing scripts for web scrapping
+          - Repairing scripts from other developers
+          - Using Symfony DOM Crawler
+          - Agile methodologies for team working
+        Badges: ['Php', 'Symfony', 'Gitlab', 'Jira', 'Jenkins', 'Docker']
+  - Employer: Recipe-me!
+    Place: Barcelona, ES
+    Positions:
+      - Title: Full Stack - WEB APP DEVELOPER (Final Project)
+        Date: Apr 2021 - May 2021
+        Details:
+          - Developing a RESTful API with Swagger.
+          - Creating a Frontend desing with React and Material UI.
+          - Establishing communication between Backend and Frontend.
+          - Designing a Web-App architecture.
+          - Generating a MySql database with Migrations.
+          - Populating databases with Fixtures
+        Badges: ['React', 'Symfony', 'Hugo', 'Github', 'Swagger', 'MySql', 'Postman']
+  - Employer: Magmacultura / Julia
+    Place: Barcelona, ES
+    Positions:
+      - Title: TOURIST GUIDE
+        Date: Feb 2018 - Aug 2019
+        Details:
+          - Helping tourists in City Tour Bus
+          - Supporting customers to enjoy their trip
+          - Selling Tickets and excursions
+        Badges: ['English', 'Under Pressure', 'Custommer Service']
+
+Education:
+  - Course: Vocational Qualification on Web App Development
+    Place: Institute Jaume Balmes (Barcelona)
+    Date: Sep 2019 - May 2021
+    Details: Specialised in React and Symfony5
+  - Course: Degree in Dramatic Arts
+    Place: ESADIB (Dramatic Arts School from Balearic Islands)
+    Date: Sep 2013 - Jun 2017
+    Details: Specialised in textual acting
+
+Skills:
+  - Family: Programming
+    Items:
+      - Java
+      - HTML (including Bootstrap)
+      - Javascript
+      - CSS
+      - PHP
+      - SQL
+      - Bash
+  - Family: Frameworks
+    Items:
+      - Symfony
+      - Spring
+      - Hugo
+      - React
+      - Api Platform
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+      - Jira
+      - Composer
+      - Postman
+  - Family: Misc
+    Items:
+      - Gimp
+      - Audacity
+
+Languages:
+  - Name: English
+    Level: B2
+  - Name: Spanish
+    Level: Native
+  - Name: Catalan
+    Level: Native
+  - Name: Corean
+    Level: In progress
+
+Diplomas:
+  - Symfony 5 Advanced Course (2021)
+  - HTML5 & CSS3 (2021)
+
+Interests:
+  - Nintendo
+  - Mockups
+  - Guitar
+  - Animals
+  - Mallorca
+  - Corea
