@@ -27,7 +27,17 @@ Experience:
           - 통역서비스
           - MWC 행사 수행, SK그룹 행사 수행 
           - 2021년 문재인 대통령 스페인 방문 시 수행요원
-        Badges: ['가이드', '여행플래너', '바르셀로나', '6년', '여행업']
+        Badges: ['가이드', '여행플래너', '스페인', '바르셀로나', '6년', '여행업']
+  - Employer: 빨간바지투어
+    Place: Barcelona, ES
+    Positions:
+      - Title: 투어가이드, 현지가이드
+        Date: Apr 2016 - Present
+        Details:
+          - 바르셀로나 가이드투어
+          - CS 고객관리, 여행플래너
+          - 개인가이드 투어 
+        Badges: ['가이드', '여행플래너', '바르셀로나', '여행업']
   - Employer: 이지메디컴(주)
     Place: Seoul, KO
     Positions:
@@ -40,6 +50,26 @@ Experience:
           - 세금계산서 매출/매입 회계처리
           - 물류지원, CS관리, B2B 관련 서비스관리
         Badges: ['CS관리', '마감정산', 'B2B']
+  - Employer: 한스컴퍼니
+    Place: Seoul, KO
+    Positions:
+      - Title: 사원
+        Date: Jun 2011 - Jen 2012
+        Details:
+          - 발주업무, 물류업무 
+          - CS 고객 관리          
+        Badges: ['CS관리', '유통업', '쇼핑몰']
+  - Employer: (주)콤비코리아
+    Place: Seoul, KO
+    Positions:
+      - Title: 사원
+        Date: Nov 2010 - May 2011
+        Details:
+          - 영업지원, 전표관리
+          - 발주업무, 물류지원
+          - CS관리
+          - 마감 회계업무
+        Badges: ['CS관리', '유통업', '영업지원']
 
 Education:
   - Course: 관광과
