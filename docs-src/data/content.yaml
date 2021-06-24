@@ -1,18 +1,18 @@
 BasicInfo:
-  FirstName: Sergi
-  LastName: Francés
+  FirstName: Haewoon
+  LastName: Kim
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
       Info: +34 722 65 85 60
     - Icon: fas fa-envelope
-      Info: francessergi@hotmail.com
+      Info: ruinwun@gmail.com
     - Icon: fas fa-globe
-      Info: linkedin.com/in/sergifrances
+      Info: linkedin.com/in/haewoonkim
     - Icon: fas fa-map-marker-alt
       Info: Barcelona
 
-Profile: Hi, it's me Sergi! I like to innovate continuously to feel in motion. I see challenges where others see walls I turn lessons into projects, and projects into success.
+Profile: Hi, it's me Haewooni! I like to innovate continuously to feel in motion. I see challenges where others see walls I turn lessons into projects, and projects into success.
 
 Experience:
   - Employer: Tiendeo

@@ -1,4 +1,5 @@
 baseURL = "https://haewoonkim.github.io/CV_2021/"
+
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
