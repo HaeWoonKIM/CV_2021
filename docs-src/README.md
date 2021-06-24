@@ -11,6 +11,13 @@ hugo serve -D
 ```
 hugo
 ```  
-para construirlo.
+바뀐내용 저장하고 나서 terminal에 hugo 입력.
 
 
+```
++ 눌러서 업로드
+```  
+
+```
+메세지작성
+```  
